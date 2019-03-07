@@ -1,2 +1,2 @@
 # hm06
-html5 class: hm06
+html5 class
